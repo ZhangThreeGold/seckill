@@ -14,7 +14,7 @@ import java.util.List;
 import static org.junit.Assert.*;
 
 /**
- * Created by on 17-5-22.下午9:33
+ * Created by zhangxin on 17-5-22.下午9:33
  */
 //@RunWith(SpringJUnit4ClassRunner.class)
 //@ContextConfiguration({"classpath:spring/applicationContext-dao.xml"})
